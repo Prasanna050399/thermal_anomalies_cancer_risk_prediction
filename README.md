@@ -38,6 +38,3 @@ The Breast Cancer Early Detection System offers a promising approach to the earl
 
 The system has displayed an impressive accuracy rate of 95.45% on testing data, indicating its potential as a valuable tool in the field of cancer research. While these results are promising, there is still room for improvement, and ongoing development may lead to even better outcomes. The system's ability to potentially make breakthroughs in cancer research is a testament to its significance and impact.
 
-For more details on installation, usage, and contributions, please refer to the relevant sections in this repository.
-
-For more information about the project, please refer to the project [report]().
