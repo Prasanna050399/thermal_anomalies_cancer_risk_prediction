@@ -1,0 +1,12 @@
+pending work
+	##remarks window confirm check for report generation
+	##remarks window progress bar (thread implementation)
+	##database -> visit save conflict for same date
+	##image selection -> select normal temperature feedback
+	##image selection -> roi selection add text about right mouse button
+	##image selection -> button checked color trial (yellow, green, gray)
+	
+	##remarks screen programming (generate report button)
+	##asymmetry image module (asymmetry between left and right breast on anomaly page)
+	report generation module (requires report template -> not available)
+	anomaly detection module (requires improvements)
